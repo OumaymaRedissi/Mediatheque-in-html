@@ -1,0 +1,23 @@
+#info{
+    border: solid 10px black;
+    margin: 50px;
+    padding: 30px;
+    background-color: #FD927C;
+
+}
+#inscript{
+    border: solid 10px black;
+    margin: 50px;
+    padding: 30px;
+    background-color: #FFC300;
+}
+#pret{
+    border: solid 10px black;
+    margin: 50px;
+    padding: 30px;
+    background-color :#DAF7A6;
+}
+#horl{
+    width: 250px;
+    height: 250px;
+}
